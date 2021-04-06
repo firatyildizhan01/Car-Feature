@@ -38,6 +38,7 @@ namespace WindowsFormsApp20
             cfd.arabaYas = 432;
             cfd.arabaGüc = 123;
             cfd.durum = "kötü";
+            
 
             label1.Text = cfd.carRenk;
             label2.Text = cfd.arabaLimit.ToString();
